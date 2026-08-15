@@ -96,3 +96,31 @@ aws-notes-project/
 │
 ├── .gitignore
 └── README.md
+
+## 🎯 Learning Outcomes
+
+Through this project, I practiced:
+
+- Deploying applications on AWS EC2
+- Creating AWS networking infrastructure
+- Managing infrastructure using Terraform
+- Importing existing AWS resources into Terraform
+- Using Terraform variables and outputs
+- Managing security group rules
+- Running Django and MySQL using Docker
+- Using Git and GitHub for infrastructure code
+
+## 📌 Project Status
+
+The AWS Notes Application is successfully deployed and accessible through the EC2 instance.
+
+The AWS infrastructure has been successfully managed and verified using Terraform, and the project has been documented and version-controlled using Git and GitHub.
+
+## 🚀 Conclusion
+
+This project provided hands-on experience with cloud infrastructure, Infrastructure as Code, containerization, and application deployment. It demonstrates how AWS resources can be organized and managed using Terraform while running a containerized Django application on EC2.
+
+---
+
+**Project:** AWS Notes Application  
+**Technologies:** AWS • Terraform • Docker • Django • MySQL • Git • GitHub
